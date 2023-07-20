@@ -12,6 +12,8 @@ Grupo Neural Miners - Julho/2023
  - Viviane Veiga Colleoni
 
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/AxdFTZ13ZyQ/0.jpg)](http://www.youtube.com/watch?v=AxdFTZ13ZyQ "Detecção de câncer de mama - Neural Miners")
+
 
 O projeto de conclusão de curso apresentado pelo grupo Neurominers, da Unicamp, foca na detecção de câncer de mama por meio da classificação de imagens de mamografias. Utilizando dados disponibilizados por uma competição do Kaggle, o desafio consiste em identificar se as imagens possuem indícios de câncer de mama ou não. Para desenvolver um modelo capaz de classificar as imagens, o grupo avaliou diferentes arquiteturas e combinações de algoritmos, além de realizar pré-processamentos de imagens e tratar o desbalanceamento de classes.
 
